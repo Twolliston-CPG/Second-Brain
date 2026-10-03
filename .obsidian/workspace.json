@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "b2b3df99c8909336",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b664b402dbae5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96ece6568df0973",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "058c64c162851cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d2119c2e8259ec8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "003e5f2f2c6671f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b394eca3cfecd92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#DNSRECORDTYPE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "176a8db3b98d0e1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "86d777afdbfd75b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "52076e0cca1611ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3f8b6f4fdd7c304",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99 - Cantrill.io Courses/AWS Certified Solutions Architect - Associate (SAA-C03).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AWS Certified Solutions Architect - Associate (SAA-C03)"
+            }
+          },
+          {
+            "id": "f5e03f09e5fe59cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99 - Cantrill.io Courses/AWS Certified Solutions Architect - Associate (SAA-C03).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AWS Certified Solutions Architect - Associate (SAA-C03)"
+            }
+          },
+          {
+            "id": "d6fd0bd92fe5efd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b92a46d4a39e0e1c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b26cc43efe80432a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99 - Cantrill.io Courses/AWS Certified Solutions Architect - Associate (SAA-C03).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AWS Certified Solutions Architect - Associate (SAA-C03)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c96ece6568df0973",
+  "lastOpenFiles": [
+    "README.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/05. AWS Architecture & Final Review.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/05. Day.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/Untitled.md",
+    "4 - IT/AWS/Database/ElastiCache (Redis_Memcached).md",
+    "4 - IT/AWS/Compute/02. Putting it together.md",
+    "4 - IT/AWS/Compute/01. Map of Contents for Compute.md",
+    "4 - IT/AWS/Database/02. Putting it together.md",
+    "4 - IT/AWS/Database/99. Putting it together.md",
+    "4 - IT/AWS/Database/01. Map of Contents for Database.md",
+    "4 - IT/AWS/Database/99. Map of Contents for Database.md",
+    "4 - IT/Courses/Cantrill.io/temp.md",
+    "4 - IT/Courses/Cantrill.io/02.Q IAM & Orgs Section Quiz.md",
+    "4 - IT/Courses/Cantrill.io/02. AWS Certified Solutions Architect - Associate (SAA-C03).md",
+    "4 - IT/Courses/Cantrill.io/01. Tech - Fundamentals.md",
+    "4 - IT/Courses/Cantrill.io/01.Q Tech - Fundamentals Quiz.md",
+    "4 - IT/Courses/Cantrill.io/0-_Amazon_Web_Services.md",
+    "4 - IT/Courses/Cantrill.io",
+    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/02.  Section II. Gitops + Linux CLI.md",
+    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/05.  Section V. Orchestration scripting (conceptual grounding).md",
+    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/04.  Section IV. Python intro.md",
+    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/03.  Section III. Linux scripting.md",
+    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/01.  Section I. IDE and File management.md",
+    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/0-_ Intro_Course description.md",
+    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/04. Day 4 AWS Security, Identity & Management.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/03.  Day 3 Storage & Databases.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/02.  Day 2 Compute & Networking.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction",
+    "4 - IT/Courses/Cantrill.io Courses",
+    "4 - IT/Courses/99 - Cantrill.io Courses",
+    "4 - IT/Courses",
+    "4 - IT/Untitled",
+    "4 - IT/CPG/Class 8/98 - Cloud Proving Ground/Fundamentals Bootcamp Syllabus",
+    "4 - IT/CPG/Class 8/98 - Cloud Proving Ground/AWS Cloud Practitioner Introduction",
+    "4 - IT/CPG/Class 8/98 - Cloud Proving Ground",
+    "0 - images/CPG/Pasted image 20260930205003.png",
+    "0 - images/CPG/Pasted image 20260928220045.png",
+    "0 - images/CPG/Pasted image 20260928215316.png",
+    "0 - images/Pasted image 20260930205003.png",
+    "0 - images/Pasted image 20260928220045.png",
+    "0 - images/Pasted image 20260928215316.png",
+    "Pasted image 20260930205003.png",
+    "Pasted image 20260928220045.png",
+    "Pasted image 20260928215316.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[SHAREDALL] [Demo] Creating a static website with S3_AQ.png"
+  ]
+}

@@ -1,0 +1,2 @@
+**Amazon CloudFront (CDN)**  
+Problem: users far from your servers get slow load times, and your origin gets hammered by repeated requests for the same content. CloudFront caches content at hundreds of edge locations worldwide, so users fetch it from somewhere nearby. That cuts latency, reduces load and cost on your origin (S3, ELB, EC2), and adds protection against DDoS through AWS Shield and WAF integration. It's best for cacheable HTTP content such as images, video, static sites, and APIs.

@@ -1,0 +1,2 @@
+**Amazon Lightsail**  
+The problem: EC2 is powerful but complicated, since you have to understand VPCs, security groups, EBS volumes, and dozens of options just to host a simple site. Lightsail bundles a virtual server, storage, data transfer, DNS, and static IP into one fixed monthly price with a simple console. It's for small websites, WordPress blogs, dev/test environments, and people who want a VPS without learning AWS. It trades power for simplicity.

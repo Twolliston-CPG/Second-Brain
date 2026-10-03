@@ -1,0 +1,2 @@
+**AWS Elastic Beanstalk**  
+The problem: deploying a web app properly on AWS means wiring together EC2, load balancers, auto scaling groups, health checks, and monitoring, which is a lot of infrastructure work for a developer who just wants their app online. With Beanstalk you upload your code (Java, Python, Node.js, .NET, PHP, Ruby, Go, Docker), and it provisions and manages all of that for you. Unlike a fully managed platform, the underlying EC2 resources are still visible, so you can customize them if needed. It's a Platform-as-a-Service layer on top of EC2.

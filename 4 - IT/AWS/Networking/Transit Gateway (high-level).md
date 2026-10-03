@@ -1,0 +1,2 @@
+**AWS Transit Gateway (high-level)**  
+Problem: as you add VPCs and on-prem connections, wiring them all together with individual peering links becomes a messy mesh. With N networks, you need roughly N² connections. Transit Gateway is a central hub router: every VPC, VPN, and Direct Connect link attaches to it once, and it routes between them. That's a hub-and-spoke design instead of a full mesh, which is much simpler to manage at scale.

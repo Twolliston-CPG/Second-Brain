@@ -1,0 +1,1 @@
+A quick way to remember them: RDS for structured transactional data, DynamoDB for massive scale with simple lookups, Redshift for analytics, ElastiCache for speed, and Neptune for relationships.

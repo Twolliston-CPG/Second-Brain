@@ -1,0 +1,2 @@
+**Amazon ECS (Elastic Container Service)**  
+The problem: containers make apps portable and consistent, but running many of them across many machines requires an orchestrator that decides where each container runs, restarts failed ones, scales them, and connects them to load balancers. ECS is AWS's own container orchestrator. It is simpler than Kubernetes and integrates tightly with other AWS services like IAM, CloudWatch, and ALB. It's a good fit if you want containers and are comfortable staying within AWS.

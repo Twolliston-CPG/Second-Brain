@@ -1,0 +1,2 @@
+**Elastic Load Balancing (ELB)**  
+Problem: a single server is a single point of failure and has limited capacity. ELB spreads incoming traffic across many targets (EC2 instances, containers, Lambda), health-checks them, and stops sending traffic to unhealthy ones. That gives you both scalability and high availability. The main types are the Application Load Balancer (HTTP/HTTPS, can route by URL path or hostname), the Network Load Balancer (TCP/UDP, extremely high performance, static IPs), and the Gateway Load Balancer (for inserting third-party firewalls and appliances).

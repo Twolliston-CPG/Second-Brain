@@ -1,0 +1,2 @@
+**AWS Fargate**  
+The problem: ECS and EKS still need servers underneath to run the containers, and those servers have to be provisioned, patched, and scaled. Fargate removes that layer. You define how much CPU and memory each container needs, and AWS runs it without you ever seeing a server. It works as a launch type for both ECS and EKS. Think of it as "Lambda's philosophy, applied to containers": no servers to manage, pay per resource used, but without Lambda's time limits.

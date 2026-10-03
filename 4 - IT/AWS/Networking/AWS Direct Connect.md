@@ -1,0 +1,2 @@
+**AWS Direct Connect**  
+Problem: connecting your on-premises data center to AWS over the internet means variable performance, potential security concerns, and high data transfer costs at scale. Direct Connect is a dedicated physical private line from your facility to AWS. You get consistent bandwidth and latency, lower egress costs for large volumes, and traffic that never touches the public internet. Setup takes weeks, so it's often paired with a Site-to-Site VPN as a quick start or as a backup.
