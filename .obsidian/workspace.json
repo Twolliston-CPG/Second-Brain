@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47b664b402dbae5a",
+        "id": "68b1a660f032c205",
         "type": "tabs",
         "children": [
           {
-            "id": "c96ece6568df0973",
+            "id": "e7706b9382045d44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/02.  Section II. Gitops + Linux CLI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02.  Section II. Gitops + Linux CLI"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DNSRECORDTYPE",
+                "query": "tag:#Compute_and_Networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 287.75573348999023
   },
   "right": {
     "id": "86d777afdbfd75b6",
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Cantrill.io Courses/AWS Certified Solutions Architect - Associate (SAA-C03).md",
+                "file": "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/02.  Section II. Gitops + Linux CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,17 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Certified Solutions Architect - Associate (SAA-C03)"
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "178e309df83b8ed8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -154,21 +168,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Cantrill.io Courses/AWS Certified Solutions Architect - Associate (SAA-C03).md",
+                "file": "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/02.  Section II. Gitops + Linux CLI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS Certified Solutions Architect - Associate (SAA-C03)"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,53 +195,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "c96ece6568df0973",
+  "active": "e7706b9382045d44",
   "lastOpenFiles": [
-    "README.md",
-    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/05. AWS Architecture & Final Review.md",
-    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/05. Day.md",
-    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/Untitled.md",
-    "4 - IT/AWS/Database/ElastiCache (Redis_Memcached).md",
-    "4 - IT/AWS/Compute/02. Putting it together.md",
-    "4 - IT/AWS/Compute/01. Map of Contents for Compute.md",
-    "4 - IT/AWS/Database/02. Putting it together.md",
-    "4 - IT/AWS/Database/99. Putting it together.md",
-    "4 - IT/AWS/Database/01. Map of Contents for Database.md",
-    "4 - IT/AWS/Database/99. Map of Contents for Database.md",
-    "4 - IT/Courses/Cantrill.io/temp.md",
-    "4 - IT/Courses/Cantrill.io/02.Q IAM & Orgs Section Quiz.md",
-    "4 - IT/Courses/Cantrill.io/02. AWS Certified Solutions Architect - Associate (SAA-C03).md",
-    "4 - IT/Courses/Cantrill.io/01. Tech - Fundamentals.md",
-    "4 - IT/Courses/Cantrill.io/01.Q Tech - Fundamentals Quiz.md",
-    "4 - IT/Courses/Cantrill.io/0-_Amazon_Web_Services.md",
-    "4 - IT/Courses/Cantrill.io",
-    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/02.  Section II. Gitops + Linux CLI.md",
-    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/05.  Section V. Orchestration scripting (conceptual grounding).md",
-    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/04.  Section IV. Python intro.md",
-    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/03.  Section III. Linux scripting.md",
     "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/01.  Section I. IDE and File management.md",
     "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus/0-_ Intro_Course description.md",
-    "4 - IT/CPG/Class 8/Fundamentals Bootcamp Syllabus",
-    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/04. Day 4 AWS Security, Identity & Management.md",
-    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/03.  Day 3 Storage & Databases.md",
-    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/02.  Day 2 Compute & Networking.md",
-    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction",
-    "4 - IT/Courses/Cantrill.io Courses",
-    "4 - IT/Courses/99 - Cantrill.io Courses",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/01.  Day 1 Cloud Computing & AWS Foundations.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/0-_ Intro_Course description.md",
+    "README.md",
+    "4 - IT/CPG/Class 8/AWS Cloud Practitioner Introduction/05. AWS Architecture & Final Review.md",
+    "4 - IT/AWS/Database/01. Map of Contents for Database.md",
+    "4 - IT/AWS/Compute/02. Putting it together.md",
+    "4 - IT/AWS/Compute/01. Map of Contents for Compute.md",
+    "4 - IT/AWS/Database/FSx.md",
     "4 - IT/Courses",
-    "4 - IT/Untitled",
-    "4 - IT/CPG/Class 8/98 - Cloud Proving Ground/Fundamentals Bootcamp Syllabus",
-    "4 - IT/CPG/Class 8/98 - Cloud Proving Ground/AWS Cloud Practitioner Introduction",
-    "4 - IT/CPG/Class 8/98 - Cloud Proving Ground",
-    "0 - images/CPG/Pasted image 20260930205003.png",
+    "4 - IT/CPG/Class 8",
+    "4 - IT/CPG",
+    "4 - IT/CPG.md",
+    "4 - IT/AWS/Networking/Map of Content for Networking.md",
+    "4 - IT/AWS/Networking/Putting it together.md",
+    "4 - IT/AWS/Networking/Transit Gateway (high-level).md",
+    "4 - IT/AWS/Networking/AWS Direct Connect.md",
+    "4 - IT/AWS/Networking/AWS Global Accelerator.md",
+    "4 - IT/AWS/Management/CloudFront (CDN).md",
+    "4 - IT/AWS/Networking/Amazon Route 53.md",
+    "4 - IT/AWS/Networking/Elastic Load Balancing (ELB).md",
+    "4 - IT/AWS/Networking/VPC (subnets, NACLs, Security Groups).md",
+    "4 - IT/AWS/Storage/Map of Contents for Database.md",
+    "4 - IT/AWS/Storage/Neptune.md",
+    "4 - IT/AWS/Storage/DynamoDB.md",
+    "4 - IT/AWS/Storage/Putting it together.md",
+    "4 - IT/AWS/Database/ElastiCache (Redis_Memcached).md",
+    "4 - IT/AWS/Storage/Redshift.md",
+    "4 - IT/AWS/Management",
+    "4 - IT/AWS/Cost Management",
+    "4 - IT/AWS/AI",
+    "4 - IT/AWS/Analyitics",
+    "4 - IT/AWS/Observability",
+    "4 - IT/AWS/Networking",
+    "4 - IT/AWS/Security",
     "0 - images/CPG/Pasted image 20260928220045.png",
     "0 - images/CPG/Pasted image 20260928215316.png",
-    "0 - images/Pasted image 20260930205003.png",
-    "0 - images/Pasted image 20260928220045.png",
-    "0 - images/Pasted image 20260928215316.png",
-    "Pasted image 20260930205003.png",
-    "Pasted image 20260928220045.png",
-    "Pasted image 20260928215316.png",
-    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[SHAREDALL] [Demo] Creating a static website with S3_AQ.png"
+    "0 - images/CPG/Pasted image 20260930205003.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[ASSOCIATESHARED] [DEMO] Permissions control using IAM Groups_AG.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[ASSOCIATESHARED] High-Availability vs Fault-Tolerance vs Disaster Recovery_B.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[ASSOCIATESHARED] AWS Public vs Private Services_B.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[ASSOCIATE SHARED] [DEMO] Simple Identity Permissions in AWS_BH.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[SHAREDALL] [Demo] Creating a static website with S3_BW.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[SHAREDALL] [Demo] Creating a static website with S3_BV.png",
+    "0 - images/AWS_Certified_Solutions_Architect_Associate (SAA-C03)/[SHAREDALL] [Demo] Creating a static website with S3_BU.png"
   ]
 }
