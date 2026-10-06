@@ -1,0 +1,36 @@
+## Basic CLI commands
+- pwd - Print the current working directory.
+- ls - List files and directories in the current directory.
+- mkdir <directory> - Create a new directory with the specified name. 
+- cd <directory> - Change the current directory to the specified directory. 
+- man <command> - show the manual pages for the command 
+
+Examples: 
+mkdir new_folder
+cd new_folder 
+cd ..
+man ls 
+
+## Class preparation steps: 
+1. Open vscode
+2. Open a project folder in your projects directory
+3. Create a repository on Github
+4. Create a notes.txt file
+5. Create an index.html file !
+6. Create an app.py file 
+
+## Basic git workflow
+1. git add the-file-i-changed <file2> <file3>
+2. git commit -m "what did i change?"
+3. git push
+
+## Pull Request git workflow
+1. git checkout -b <branch-name>
+2. Make a change
+3. Basic git workflow: add commit push 
+4. Create a pull request on GitHub
+5. Get the pr merged: main <- the_branch
+
+Git lessons 1 - 3: https://killercoda.com/pawelpiwosz/course/gitFundamentals 
+Lessons 1 - 7: https://killercoda.com/pawelpiwosz/course/linuxFundamentals 
+Vim lesson 1 https://killercoda.com/vim
